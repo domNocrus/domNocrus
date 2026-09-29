@@ -1,4 +1,9 @@
-## Hi there 👋
+## Welcome to my GitHub profile!😄
+
+### I'm still trying to work out what to put here for now, but thanks for stopping by in the meantime
+
+I'm a developer from Nottingham, England. I work mostly with web and mobile apps, but more recently have begun creating apps which connect PCB's to mobile apps using bluetooth low energy.
+
 
 <!--
 **domNocrus/domNocrus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
