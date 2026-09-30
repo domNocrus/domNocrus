@@ -4,8 +4,7 @@
 
 I'm a developer from Nottingham, England. I work mostly with web and mobile apps, but more recently have begun creating apps which connect PCB's to mobile apps using bluetooth low energy.
 
-<img width="720" height="537" alt="347255912_285009847337888_2036598379795694806_n" src="https://github.com/user-attachments/assets/60ec67b8-4fbf-456d-8ab9-ea9cfc38bff3" />
-<img width="1080" height="1080" alt="theme_image" src="https://github.com/user-attachments/assets/62a008ad-336c-4c16-926c-e47c3f8685d3" />
+<img width="500" alt="347255912_285009847337888_2036598379795694806_n" src="https://github.com/user-attachments/assets/60ec67b8-4fbf-456d-8ab9-ea9cfc38bff3" />
 
 <!--
 **domNocrus/domNocrus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
